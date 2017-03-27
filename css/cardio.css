@@ -342,7 +342,7 @@ section {
 }
 
 .intro-table-third {
-	background-color: #EFEEB2;
+	background-color: #f7f5d;
 }
 
 .intro-table-hover .expand {
@@ -783,7 +783,7 @@ footer .social-footer li:hover a {
 	position: relative;
 	padding: 45px 30px;
 	text-align: center;
-	background: url('../img/popup.jpg');
+	background-color: #00a8ff;
 	box-shadow: none;
 	border-radius: 2px;
 }
