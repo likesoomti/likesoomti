@@ -40,7 +40,7 @@ body {
 .preloader div {
 	display: none;
 	/* Preload the Second Pricing Image */
-	background: url(../img/pricing2.jpg) no-repeat 9999px 9999px;
+	
 	background-position: 9999px 9999px;
 }
 
@@ -655,7 +655,7 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: url('../img/footer.jpg');
+	background: url(../img/header.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -1019,7 +1019,7 @@ footer .social-footer li:hover a {
 }
 
 .blue-bg {
-	background: #00a8ff;
+	background: #20251d;
 }
 
 .muted {
