@@ -548,7 +548,7 @@ section {
 /* Pricing */
 
 #pricing {
-	background: #00a8ff url('../img/pricing1.jpg') no-repeat center center;
+	background: #00a8ff url('../img/movie.png') no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	-webkit-transition: background-image 0.6s linear 0.3s;
@@ -578,7 +578,7 @@ section {
 	width: 50%;
 	height: 300px;
 	padding: 50px 40px;
-	background: #bbb;
+	/*	background: #bbb;	*/
 	-webkit-transition: -webkit-transform 0.3s, background-image 0.3s, opacity 0.3s;
 	transition: transform 0.3s, background-image 0.3s, opacity 0.3s;
 	-webkit-backface-visibility: hidden;
