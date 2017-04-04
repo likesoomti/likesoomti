@@ -617,7 +617,7 @@ section {
 }
 
 .pricings .pricing .box-main.active {
-	background: #00a8ff;
+	/* background: #00a8ff; */
 	-webkit-transform: translateX(-99%);
 	-ms-transform: translateX(-99%);
 	transform: translateX(-99%);
@@ -634,12 +634,12 @@ section {
 
 .pricings .pricing .box-second.active {
 	opacity: 1;
-	background: #00a8ff;
+	/* background: #00a8ff; */
 }
 
 .pricings .pricing.active .box-main,
 .pricings .pricing .box-second {
-	background: #00a8ff;
+	/* background: #00a8ff; */
 }
 
 .pricings .pricing .box-main a.btn {
@@ -1078,7 +1078,7 @@ footer .social-footer li:hover a {
 		background: #00a8ff;
 	}
 	.pricings .pricing .box-main.active {
-		background: #00a8ff;
+     	/* background: #00a8ff; */
 		-webkit-transform: translateX(0%);
 		-ms-transform: translateX(0%);
 		transform: translateX(0%);
@@ -1124,5 +1124,5 @@ footer .social-footer li:hover a {
 }
 
 .soomti_center{
-	text-align: center
+	text-align: center;
 }
